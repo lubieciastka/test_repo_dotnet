@@ -1,0 +1,259 @@
+// Vendors
+@import 'vendors/swiper';
+
+@import 'vendors/foundation';
+
+@import 'common/vars';
+@import 'common/colors';
+
+// Fonts
+//
+// Here is all fonts in project
+//
+// Weight: 1
+//
+//
+// Style guide: fonts
+@import 'common/fonts';
+
+@import 'mixins/media-queries';
+@import 'mixins/transformations';
+@import 'mixins/transitions';
+@import 'mixins/utilities';
+@import 'mixins/animations';
+@import 'mixins/spinners';
+
+@import 'vendors/selectize.default';
+
+@import 'common/base';
+
+
+// Icons
+//
+// See how to add icons to elements.
+//
+// Weight: 2
+//
+// Style guide: icons
+@import 'common/icons';
+
+// Typography
+//
+// Here is all typography styles in project
+//
+// Weight: 3
+//
+//
+// Style guide: typography
+@import 'common/typography';
+
+// Form Elements
+//
+// See form elements in project.
+//
+// Weight: 4
+//
+// Style guide: form-elements
+@import 'common/form-elements';
+
+@import 'common/otp-component';
+
+// Virtual keyboard
+//
+// See virtual keyboard in project.
+//
+// Weight: 4
+//
+// Style guide: virtual-keyboard
+@import 'common/virtual-keyboard';
+
+// Date picker
+//
+// See date picker in project.
+//
+// Weight: 4
+//
+// Style guide: date picker
+@import 'common/datepicker';
+
+// add pattern image as a background
+
+// Custom selectizes
+//
+// --opis
+//
+// Markup:
+//  <div></div>
+//
+// .dark-blue-bg - dark blue background
+// Weight: -1
+//
+// Style guide: form-elements.selectize
+@import 'common/selectize';
+
+// Miscs
+//
+// Miscs.
+//
+// Weight: 5
+//
+// Style guide: misc
+@import 'common/misc';
+
+@import 'common/anim';
+
+@import 'common/animated-loader';
+
+@import 'common/account-gradients';
+
+@import 'common/loader';
+
+@import 'common/toplayer';
+
+// Login Page
+//
+// Elements from login page.
+//
+// Weight: 6
+//
+// Style guide: login
+@import 'partials/login';
+
+@import 'partials/personal-offer';
+
+@import 'partials/header';
+
+@import 'partials/main-menu';
+
+@import 'partials/role-selector';
+
+@import 'partials/main';
+
+@import 'partials/info-block';
+
+@import 'partials/dashboard-account-section';
+
+@import 'partials/new-payment';
+
+@import 'partials/planned-payments';
+
+@import 'partials/payments-history';
+
+@import 'partials/payments-fallback';
+
+@import 'partials/account-filters';
+
+@import 'partials/user-greeting';
+
+@import 'partials/special-offer';
+
+@import 'partials/card-panel';
+
+@import 'partials/statements-list';
+
+@import 'partials/error-page';
+
+@import 'partials/cookies-banner';
+
+@import 'partials/card-activation';
+
+@import 'partials/file-link';
+
+@import 'partials/change-card-status';
+
+@import 'partials/block-all-cards';
+
+@import 'partials/lang-switch';
+
+@import 'partials/useful-documents';
+
+@import 'partials/application-steps';
+
+@import 'partials/related-products';
+
+@import 'partials/avatar-beneficiary';
+
+@import 'partials/preapproved-loan';
+
+@import 'partials/notifications-settings';
+
+@import 'partials/authorization-settings';
+
+@import 'partials/recipient-book';
+
+@import 'partials/onboarding-guide';
+
+@import 'partials/placement';
+
+@import 'partials/toastr-notifications-slider';
+
+// Dashboard
+//
+// Elements from dashboard page.
+//
+// Weight: 7
+//
+// Style guide: dashboard
+@import 'common/modal';
+
+@import 'common/lightbox';
+
+@import 'common/tooltip';
+
+@import 'partials/hint';
+
+@import 'common/radial-progressbar';
+
+// Footer
+//
+// Main footer.
+//
+// Weight: 8
+//
+// Style guide: footer
+@import 'partials/footer';
+
+// Repayment section for Paycards
+//
+// Repayment section for Paycards
+//
+// Weight: 9
+//
+// Style guide: Paycards
+@import 'partials/repayment';
+
+// Paycards
+//
+// Paycards
+//
+// Weight: 10
+//
+// Style guide: Paycards
+@import 'partials/paycard';
+
+// Deposits
+//
+// Deposits
+//
+// Weight: 11
+//
+// Style guide: Deposits
+@import 'partials/deposit';
+
+// Offer
+//
+// Offer
+//
+// Weight: 12
+//
+// Style guide: Offer
+@import 'partials/offer-products';
+
+// Settings
+//
+// Settings
+//
+// Weight: 13
+//
+// Style guide: Settings
+@import 'partials/settings';
